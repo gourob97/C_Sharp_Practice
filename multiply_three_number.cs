@@ -1,7 +1,7 @@
 using System;
 
 class Program{
-    public static void Main(String[] args){
+    public static void Main(string[] args){
        
        int res=1, num;
        for(int i =0; i<3;i++){

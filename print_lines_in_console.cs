@@ -1,8 +1,7 @@
-using Internal;
 using System;
 
 class Program{
-    public static void Main(String[] args){
+    public static void Main(string[] args){
         Console.WriteLine("Hello");
         Console.WriteLine("Gourob");
     }
